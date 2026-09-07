@@ -1,6 +1,6 @@
 # Experiment 8: Reproducing an Image Using Prompts for Image Generation
 
-**Register No:** 212223220097
+**Register No:** 212223220097 
 
 ## Aim
 
